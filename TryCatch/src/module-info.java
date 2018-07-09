@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author Maciek
+ *
+ */
+module trycatch {
+}
